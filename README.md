@@ -1,2 +1,3 @@
-# Shell-Program-Collections
-A repository containing shell programs.
+A curated collection of Shell Programs
+------------------------------------
+[ Temporary README ]
