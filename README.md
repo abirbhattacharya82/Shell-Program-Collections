@@ -1,6 +1,6 @@
 # Shell Program Collections
 ![](hm.png)
-A shell script is a computer program designed to be run by the Unix shell, a command-line interpreter.[1] The various dialects of shell scripts are considered to be scripting languages. Typical operations performed by shell scripts include file manipulation, program execution, and printing text. To know more visit [here](https://en.wikipedia.org/wiki/Shell_script)
+A shell script is a computer program designed to be run by the Unix shell, a command-line interpreter. The various dialects of shell scripts are considered to be scripting languages. Typical operations performed by shell scripts include file manipulation, program execution, and printing text. To know more visit [here](https://en.wikipedia.org/wiki/Shell_script)
 
 # How to Run a Shell Script
 - For __Mac OS__ and __Windows__
