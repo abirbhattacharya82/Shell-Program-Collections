@@ -15,6 +15,15 @@ A shell script is a computer program designed to be run by the Unix shell, a com
     - To know how to use nano editor click on this [link](About/nano_tutorial.md)
   - Run the code using the command ``` bash FILENAME.sh ``` __Replace FILENAME with the name of your file__
 
+# Programs available
+- [Factorial of a Number](Factorial.sh)
+- [Factorial of a Number using Function](Factorial_of_a_Number_using_Functions.sh)
+- [Multiplication Table](Multiplication_Table.sh)
+- [Fibonacci upto 'N' Terms](N_term_Fibonacci.sh)
+- [Prime Number check](Prime_check.sh)
+- [Maximum of Three Numbers](largest_among_three.sh)
+- [Minimum of Three Numbers](smallest_among_three.sh)
+
 # New To GitHub??
 * [Intro to GitHub](https://youtu.be/wTTek8P2VB4)
 * [How to Create a Repository](https://youtu.be/o6T5F7-SOAo)
