@@ -23,8 +23,14 @@ A shell script is a computer program designed to be run by the Unix shell, a com
 - [Prime Number check](Prime_check.sh)
 - [Maximum of Three Numbers](largest_among_three.sh)
 - [Minimum of Three Numbers](smallest_among_three.sh)
-- [Printing of User Data](User_data..sh)
+- [Printing of User Data](User_data.sh)
 - [Krishnamurthy NUmber Checker](Krishnamurthy_Number_Checker.sh)
+- [Triangle with Hypotenous on Right and Reverse Number](left_tri__num_rev.sh)
+- [Left Triangle with ```*``` ](left_tri.sh)
+- [Box made with ```#``` ](hash_box.sh)
+- [Array Manipulation](Array_Manupulation.sh)
+- [Largest Number in the Array](Largest_Elements_in_the_array.sh)
+- [Sorting Elements using Bubble sort](Sorting_elements_in_the_array.sh)
 
 # New To GitHub??
 * [Intro to GitHub](https://youtu.be/wTTek8P2VB4)
